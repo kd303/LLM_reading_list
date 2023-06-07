@@ -19,7 +19,7 @@ List of Articles, video for reading and keeping progress of each.
 |Self-Supervise Learning Bible| "dark matter of intelligence| A good take on lot of things related to training the self-supervised techniques|[Link](https://arxiv.org/abs/2304.12210)|Not Read|
 |ToolFormers|Toolformer: Language Models Can Teach Themselves||[Link](https://arxiv.org/abs/2302.04761)|Not Read|
 |QLoRA|QLoRA : Efficient Finetuning of Quantized LLMs|An efficient fine-tuning approach that reduces memor usage enough to to finetune a 65B,QLoRA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters~(LoRA). Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark|[Link](https://arxiv.org/abs/2305.14314)|Not Read|
-
+##
 ## Training
 1. [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 2. [QLora Blog](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
