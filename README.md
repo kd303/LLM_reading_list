@@ -41,7 +41,8 @@ List of Articles, video for reading and keeping progress of each.
 3. [Number Every ML Developer should Know](https://github.com/ray-project/llm-numbers), [Numbers Every Engineer should know](http://brenocon.com/dean_perf.html)
 4. [Mosaic ML - MPU Models](https://www.mosaicml.com/blog/mpt-7b) - Large Models, with huge context length, and smaller models like LLaMA
 5. [Big Code](https://huggingface.co/bigcode) - Brilliant pipeline code for analysis
-6. [PEFT](https://smashinggradient.com/2023/04/11/summary-of-adapter-based-performance-efficient-fine-tuning-peft-techniques-for-large-language-models/) 
+6. [PEFT](https://smashinggradient.com/2023/04/11/summary-of-adapter-based-performance-efficient-fine-tuning-peft-techniques-for-large-language-models/)
+7.  [List of Good books to read on ML](https://aman.ai/read/#python-for-computational-science-and-engineering)
 
 ## Questions on LLMs:
 
