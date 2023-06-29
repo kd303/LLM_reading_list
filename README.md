@@ -27,6 +27,7 @@ List of Articles, video for reading and keeping progress of each.
 
 ## Inferencing
 1. [HuggingFace Inference Engine](https://github.com/huggingface/text-generation-inference)
+2. [Triton](https://towardsdatascience.com/hugging-face-transformer-inference-under-1-millisecond-latency-e1be0057a51c)
 
 ## Tools/ Generic
 1. [Semantic Kernals](https://learn.microsoft.com/en-us/semantic-kernel/overview/) 
