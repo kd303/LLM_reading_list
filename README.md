@@ -24,6 +24,7 @@ List of Articles, video for reading and keeping progress of each.
 ## Training
 1. [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 2. [QLora Blog](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+3. [Fine-tuning LLMs](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 
 ## Inferencing
 1. [HuggingFace Inference Engine](https://github.com/huggingface/text-generation-inference)
