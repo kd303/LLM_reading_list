@@ -1,4 +1,4 @@
-# LLM Reading List
+# LLM Resource List
 List of Articles, video for reading and keeping progress of each. 
 
 ## Prompt Engineering
@@ -37,8 +37,11 @@ List of Articles, video for reading and keeping progress of each.
 4. [Prompt Engineering](https://github.com/brexhq/prompt-engineering)
 5. [Transformers](https://e2eml.school/transformers.html#resources)
 6. [Attention Visualization](https://github.com/jessevig/bertviz)
-   
-## Open LLMs
+
+## Resources
+1. [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
+
+## Open LLMs offerings
 1. [Open LLM](https://github.com/eugeneyan/open-llms)
 2. [LLM Studio](https://github.com/h2oai/h2o-llmstudio)
 3. [Number Every ML Developer should Know](https://github.com/ray-project/llm-numbers), [Numbers Every Engineer should know](http://brenocon.com/dean_perf.html)
@@ -50,8 +53,8 @@ List of Articles, video for reading and keeping progress of each.
 9. [Collection of Techniques for fine-tuning](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 10.[Data Analysis for Code](https://github.com/bigcode-project/bigcode-analysis/tree/main/data_analysis)
 11.[A review on various methods to speed up fine-tuning](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
-## Questions on LLMs:
 
+## Questions on LLMs:
 1. What is the best way to train a domain-specific transformer - assuming low data and low compute available?
 2. What are the typical things in the pipeline one must check when doing unsupervised training
 3. When to use MLM, CLM, PFT, LoRA 
